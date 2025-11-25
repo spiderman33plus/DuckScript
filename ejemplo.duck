@@ -1,1 +1,4 @@
-escribe "¡Hola, DuckScript!"\nn = 10\nm = n * 2\nescribe m
+escribe "¡Hola, DuckScript!"
+nn = 10
+nm = n * 2
+escribe nm
