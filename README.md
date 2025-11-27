@@ -23,14 +23,4 @@ DuckScript es un **lenguaje de programación ligero y visual inspirado en Python
   - Mensajes emergentes (`message "texto"`)
 - **Ejecutar scripts con doble clic** mediante `.bat` o `.exe`
 
----
-
-## 📝 Cómo usar DuckScript
-
-### 1. Ejecutar scripts
-
-- Coloca tus archivos `.duck` en la misma carpeta que `duck_interpreter.py`  
-- Ejecuta el intérprete desde la consola:  
-```bash
-python duck_interpreter.py archivo.duck
 
