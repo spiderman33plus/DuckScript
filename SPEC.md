@@ -13,6 +13,7 @@ else:
     print "Menor de edad"
 end
 
+------------------------------
 
 window "Mi App" 400 300
 label "Escribe tu nombre:" 50 50
